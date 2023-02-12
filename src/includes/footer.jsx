@@ -5,8 +5,8 @@ const Footer = () => {
           <div class="units-row">
             <div class="unit-50">
               <p>
-                Хурматулла Карими <br />
-                <small>Электронная почта: hormatrasa123@gmail.com</small>
+                Hurmatullah Karimi <br />
+                <small>Email: hormatrasa123@gmail.com</small>
               </p>
             </div>
             <div class="unit-50">

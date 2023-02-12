@@ -8,21 +8,21 @@ const Header = () => {
               data-tools="navigation-toggle"
               data-target="#navbar-1"
             >
-              <span class="logo">Карими Хурматулла</span>
+              <span class="logo">Hurmatullah Karimi</span>
             </div>
             <nav id="navbar-1" class="navbar item-nav">
               <ul>
                 <li class="active">
-                  <a href="#about">O</a>
+                  <a href="#about">About</a>
                 </li>
                 <li>
-                  <a href="#experiences">Опыт</a>
+                  <a href="#experiences">Experience</a>
                 </li>
                 <li>
-                  <a href="#projects">Проекты</a>
+                  <a href="#projects">Projects</a>
                 </li>
                 <li>
-                  <a href="#skills">Навыки</a>
+                  <a href="#skills">Skills</a>
                 </li>
               </ul>
             </nav>
