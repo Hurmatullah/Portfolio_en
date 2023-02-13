@@ -140,9 +140,9 @@
                                     </ul>
                                 </div>
                             </div>
-                            <!-- End portfolio area -->
+                            {/* <!-- End portfolio area --> */}
 
-                            <!-- start blog area -->
+                            {/* <!-- start blog area --> */}
                             <div data-aos="fade-left" data-aos-duration="500" data-aos-delay="200" data-aos-once="true" class="rn-blog-area single-card-sticky section-height">
                                 <div class="inner">
                                     <h5 class="title">
@@ -156,7 +156,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <!-- End blog area -->
+                            {/* <!-- End blog area --> */}
 
                             <!-- start testimonial area -->
                             <div data-aos="fade-left" data-aos-duration="500" data-aos-delay="200" data-aos-once="true" class="rn-testimonial-area testimonial-style-2 section-height">
