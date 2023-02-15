@@ -58,85 +58,9 @@
 
                             // Portfolio
 
-                            <!-- start blog area -->
-                            <div data-aos="fade-left" data-aos-duration="500" data-aos-delay="200" data-aos-once="true" class="rn-blog-area single-card-sticky section-height">
-                                <div class="inner">
-                                    <h5 class="title">
-                                        My Blog
-                                    </h5>
-                                    <ul class="card-list">
-                                        <li><a href="#">Ervice refers to quality<i data-feather="arrow-right"></i></a></li>
-                                        <li><a href="#">Service is intangible in nature<i data-feather="arrow-right"></i></a></li>
-                                        <li><a href="#">Occurs frequently in retailing<i data-feather="arrow-right"></i></a></li>
-                                        <li><a href="#">Provided to a customer.<i data-feather="arrow-right"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            {/* <!-- End blog area --> */}
+                            // Blog
 
-                            <!-- start testimonial area -->
-                            <div data-aos="fade-left" data-aos-duration="500" data-aos-delay="200" data-aos-once="true" class="rn-testimonial-area testimonial-style-2 section-height">
-                                <div class="inner">
-                                    <h5 class="title">
-                                        Testimonial
-                                    </h5>
-
-                                    <!-- carousel area Start -->
-                                    <div class="rn-testimonial-carousel testimonial-item-one rn-slick-dot-style dot-position-left slick-arrow-style-one arrow-top-align">
-
-                                        <!-- Start Single Testimonial  -->
-                                        <div class="testimonial-inner">
-                                            <div class="testimonial-header">
-                                                <div class="thumbnail">
-                                                    <img src="assets/images/client/testimonial-1.jpg" alt="client-image">
-                                                </div>
-                                                <h5 class="ts-header">
-                                                    <span class="text-color-primary">@Rafi</span> Engineer
-                                                </h5>
-                                            </div>
-                                            <div class="testimonial-body">
-                                                <p class="discription">Martine duke thank you as well for your template from <span>@Alamin_Orko</span> ! The team is using it too. It'll really speed up the design and development process 💨.</p>
-                                            </div>
-                                        </div>
-                                        <!-- End Single Testimonial  -->
-
-                                        <!-- Start Single Testimonial  -->
-                                        <div class="testimonial-inner">
-                                            <div class="testimonial-header">
-                                                <div class="thumbnail">
-                                                    <img src="assets/images/client/testimonial-2.jpg" alt="client-image">
-                                                </div>
-                                                <h5 class="ts-header">
-                                                    <span class="text-color-primary">@Nipa</span> Tech
-                                                </h5>
-                                            </div>
-                                            <div class="testimonial-body">
-                                                <p class="discription">Martine duke thank you as well for your template from <span>@Alamin_Orko</span> ! The team is using it too. It'll really speed up the design and development process 💨.</p>
-                                            </div>
-                                        </div>
-                                        <!-- End Single Testimonial  -->
-
-                                        <!-- Start Single Testimonial  -->
-                                        <div class="testimonial-inner">
-                                            <div class="testimonial-header">
-                                                <div class="thumbnail">
-                                                    <img src="assets/images/client/testimonial-3.jpg" alt="client-image">
-                                                </div>
-                                                <h5 class="ts-header">
-                                                    <span class="text-color-primary">@Web</span> know
-                                                </h5>
-                                            </div>
-                                            <div class="testimonial-body">
-                                                <p class="discription">Martine duke thank you as well for your template from <span>@Alamin_Orko</span> ! The team is using it too. It'll really speed up the design and development process 💨.</p>
-                                            </div>
-                                        </div>
-                                        <!-- End Single Testimonial  -->
-
-                                    </div>
-                                    <!-- carousel area End -->
-                                </div>
-                            </div>
-                            <!-- End testimonial area -->
+                            // Testimonial
 
                             <!-- Start contact area -->
                             <div data-aos="fade-left" data-aos-duration="500" data-aos-delay="200" data-aos-once="true" class="rn-contact-area section-height">

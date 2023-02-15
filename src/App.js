@@ -5,7 +5,7 @@ import About from "./pages/about";
 import Skills from "./pages/skills";
 import Services from "./pages/services";
 import Portfolio from "./pages/portfolio";
-
+import Blogs from "./pages/blogs";
 
 function App() {
   return (
@@ -20,6 +20,7 @@ function App() {
       <Skills></Skills>
       <Services></Services>
       <Portfolio></Portfolio>
+      <Blogs></Blogs>
     </div>
   );
 }
