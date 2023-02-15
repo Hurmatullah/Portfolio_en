@@ -1,20 +1,25 @@
 import "./App.css";
-import Footer from "./includes/footer";
-import Header from "./includes/header";
-import Experience from "./pages/experience";
-import Introduction from "./pages/introduction";
-import Projects from "./pages/projects";
+// import Footer from "./includes/footer";
+// import Header from "./includes/header";
+import About from "./pages/about";
 import Skills from "./pages/skills";
+import Services from "./pages/services";
+import Portfolio from "./pages/portfolio";
+
 
 function App() {
   return (
     <div>
-      <Header></Header>
+      {/* <Header></Header>
       <Introduction></Introduction>
       <Experience></Experience>
       <Projects></Projects>
       <Skills></Skills>
-      <Footer></Footer>
+      <Footer></Footer> */}
+      <About></About>
+      <Skills></Skills>
+      <Services></Services>
+      <Portfolio></Portfolio>
     </div>
   );
 }
