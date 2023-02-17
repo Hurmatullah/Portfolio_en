@@ -17,17 +17,15 @@ function App() {
   }, []);
   return (
     <div>
-      {/* <Header></Header>
-      <Introduction></Introduction>
-      <Experience></Experience>
-      <Projects></Projects>
-      <Skills></Skills>
-      <Footer></Footer> */}
-      <About></About>
-      <Skills></Skills>
-      <Services></Services>
-      <Portfolio></Portfolio>
-      <Blogs></Blogs>
+        <div class="col-lg-6">
+          <div class="sticky-home-wrapper">
+              <About></About>
+              <Skills></Skills>
+              <Services></Services>
+              <Portfolio></Portfolio>
+              <Blogs></Blogs>
+          </div>
+        </div>
     </div>
   );
 }
