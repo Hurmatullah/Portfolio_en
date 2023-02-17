@@ -40,29 +40,20 @@
     <div id="root"></div>
 
     <!-- Javascript -->
-    <script src="%PUBLIC_URL%/js/jquery.min.js"></script>
-    <script src="%PUBLIC_URL%/js/typed.min.js"></script>
-    <script src="%PUBLIC_URL%/js/kube.min.js"></script>
-    <script src="%PUBLIC_URL%js/site.js"></script>
-    <script>
-      function newTyped() {}
-      $(function () {
-        $("#typed").typed({
-          // Change to edit type effect
-          strings: ["Software engineer", "Web developer"],
 
-          typeSpeed: 90,
-          backDelay: 700,
-          contentType: "html",
-          loop: !0,
-          resetCallback: function () {
-            newTyped();
-          },
-        }),
-          $(".reset").click(function () {
-            $("#typed").typed("reset");
-          });
-      });
-    </script>
+        <!-- JS ============================================ -->
+    <script src="%PUBLIC_URL%/assets/js/vendor/jquery.js"></script>
+    <script src="%PUBLIC_URL%/assets/js/vendor/modernizer.min.js"></script>
+    <script src="%PUBLIC_URL%/assets/js/vendor/feather.min.js"></script>
+    <script src="%PUBLIC_URL%/assets/js/vendor/slick.min.js"></script>
+    <script src="%PUBLIC_URL%/assets/js/vendor/bootstrap.js"></script>
+    <script src="%PUBLIC_URL%/assets/js/vendor/text-type.js"></script>
+    <script src="%PUBLIC_URL%/assets/js/vendor/wow.js"></script>
+    <script src="%PUBLIC_URL%/assets/js/vendor/aos.js"></script>
+    <script src="%PUBLIC_URL%/assets/js/vendor/particles.js"></script>
+    <script src="%PUBLIC_URL%/assets/js/vendor/jquery-one-page-nav.js"></script>
+    <!-- main JS -->
+    <script src="%PUBLIC_URL%/assets/js/main.js"></script>
+
   </body>
 </html>
